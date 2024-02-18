@@ -1,5 +1,5 @@
 # Basketball_Parameters_YOLO
-Utilizing computer vision techniques to extract meaningful parameters from the video of a man
+Utilizing Computer Vision techniques to extract meaningful parameters from the video of a man
 performing basketball dribble.
 
 ----------
