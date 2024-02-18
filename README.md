@@ -17,4 +17,7 @@ View `output/outputvid_ball.mp4`
 ----------
 *Explaination*
 -------------
+### For Ball detection
+- Used YOLOv8 model from ultralytics which is trained on COCO Dataset.
+### For Counting Number of Dribbles
 -
